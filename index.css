@@ -1,0 +1,32 @@
+#email {
+    background: rgba(205, 202, 202, 0.713);
+  }
+  
+  #name{
+    background: rgba(205, 202, 202, 0.713);
+  }
+  #address {
+    background: rgba(205, 202, 202, 0.713);
+  }
+  
+  #city{
+    background: rgba(205, 202, 202, 0.713);
+  }
+  #postal {
+    background: rgba(205, 202, 202, 0.713);
+  }
+  
+  #question{
+    background: rgba(205, 202, 202, 0.713);
+  }
+  #comment{
+    background: rgba(205, 202, 202, 0.713);
+  }
+  #rate{
+    background: rgba(205, 202, 202, 0.713);
+  }
+  html#honesty {
+    background-size: cover;
+    color: white;
+  
+  }
