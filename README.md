@@ -14,7 +14,7 @@
 * _I attatched the ScreenShot in repo._
 
 ## Website Link
-* _https://rahul7315.github.io/rahulcodetech/
+* https://rahul7315.github.io/rahulcodetech/
 
 ## Known Bugs
 
